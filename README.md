@@ -3,3 +3,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlawjddn&layout=compact&theme=compact)
 ![dlawjddn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dlawjddn)
 ![dlawjddn's github stats](https://github-readme-stats.vercel.app/api?username=dlawjddn&show_icons=true)
+<div align=>![dlawjddn's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlawjddn&show_icons=true&theme=tokyonight)</div>
