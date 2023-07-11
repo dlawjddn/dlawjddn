@@ -18,7 +18,7 @@
   
 <h3 align="center">My site</h3>
 <p align="center">
-  <a href=["https://woolly-hair-56e.notion.site/HELLO-D-076fa2f58d7246ac9fcf52a9012ff4a0"](https://hello-mynameis-jeongwoo.notion.site/it-s-legit-4d3d1570d37b4463adb8c58e338c783c?pvs=4)><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/></a></a>
+  <a href="https://hello-mynameis-jeongwoo.notion.site/it-s-legit-4d3d1570d37b4463adb8c58e338c783c?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/></a></a>
 </p>
   
 </div>
