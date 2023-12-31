@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=dlawjddn's_place&fontSize=50&animation=twinkling)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=dlawjddn&fontSize=50&animation=twinkling)
   
 ### MY BOJ 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwl0105)
