@@ -1,21 +1,9 @@
-<div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=dlawjddn!&fontSize=50&animation=twinkling)
-  
-### MY BOJ 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwl0105)
-  
-### MY Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlawjddn&layout=compact&theme=dracula)](https://github.com/dlawjddn)
-  
-### MY GitHub stats
-![dlawjddn's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlawjddn&show_icons=true&theme=tokyonight)
+## Jeongwoo Lim 임정우
+### Backend Developer
+> 안녕하세요. 아키텍처의 발전이 서비스의 발전에 큰 영향을 준다고 믿는 백엔드 개발자 임정우입니다.
+- Contact | dlawjddn0105@gmail.com
+<br>
 
-<h3 align="center">My Git View Count</h3>
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlwjddn%2Fhit-counter&count_bg=%23484947&title_bg=%23A29191&icon=github.svg&icon_color=%23E7E7E7&title=View&edge_flat=false"/></a>               
-</p>
-  
-</div>
-
-
+### 🛠️ Skills
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,nginx,aws,gcp" alt="Tech Stack" />
+<br>
